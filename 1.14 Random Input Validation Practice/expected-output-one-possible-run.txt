@@ -1,0 +1,29 @@
+Generated an odd integer: 170
+Invalid input. Please try again.
+Generated an odd integer: -28
+Invalid input. Please try again.
+Generated an odd integer: 155
+Correct!
+
+Generated a positive prime integer less than 100: 60
+Invalid input. Please try again.
+Generated a positive prime integer less than 100: 3
+Correct!
+
+Generated an integer multiple of 2: 148
+Correct!
+
+Generated a negative integer: 71
+Invalid input. Please try again.
+Generated a negative integer: -67
+Correct!
+
+Generated a letter between N and V: L
+Invalid input. Please try again.
+Generated a letter between N and V: S
+Correct!
+
+Generated an integer that solves x^2+5x+6: -4
+Invalid input. Please try again.
+Generated an integer that solves x^2+5x+6: -3
+Correct!

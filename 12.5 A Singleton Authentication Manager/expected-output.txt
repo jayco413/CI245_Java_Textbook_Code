@@ -1,0 +1,10 @@
+Testing Singleton Pattern. Expecting: Same instance.
+Same instance.
+Testing correct credentials for 'john'. Expecting: true
+true
+Testing correct credentials for 'jane'. Expecting: true
+true
+Testing incorrect password for 'john'. Expecting: false
+false
+Testing incorrect password for 'jane'. Expecting: false
+false

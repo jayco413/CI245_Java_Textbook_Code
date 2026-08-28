@@ -1,0 +1,12 @@
+Enter expression: f(x) = (4 / 3) * pi * x ^ 3
+
+  Infix Tokens: [(, 4, /, 3, ), *, pi, *, x, ^, 3]
+Postfix Tokens: [4, 3, /, pi, *, x, 3, ^, *]
+
+Enter values for x (q to quit): 1 2 3 4 5 6 q
+f(1.00) = 4.19
+f(2.00) = 33.51
+f(3.00) = 113.10
+f(4.00) = 268.08
+f(5.00) = 523.60
+f(6.00) = 904.78

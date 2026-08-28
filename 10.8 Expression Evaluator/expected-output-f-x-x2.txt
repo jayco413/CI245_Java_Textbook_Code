@@ -1,0 +1,11 @@
+Enter expression: f(x) = x ^ 2
+
+  Infix Tokens: [x, ^, 2]
+Postfix Tokens: [x, 2, ^]
+
+Enter values for x (q to quit): 1 2.2 3.33 4.44 5.555 q
+f(1.00) = 1.00
+f(2.20) = 4.84
+f(3.33) = 11.09
+f(4.44) = 19.71
+f(5.56) = 30.86

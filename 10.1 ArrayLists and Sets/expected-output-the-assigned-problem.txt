@@ -1,0 +1,7 @@
+Enter a word (or 'end' to stop): apple
+Enter a word (or 'end' to stop): banana
+Enter a word (or 'end' to stop): apple
+Enter a word (or 'end' to stop): end
+ArrayList: [apple, banana, apple]
+HashSet: [banana, apple]
+TreeSet: [apple, banana]

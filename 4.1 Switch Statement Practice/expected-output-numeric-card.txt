@@ -1,0 +1,2 @@
+Enter a card: 5
+Value of the card: 5

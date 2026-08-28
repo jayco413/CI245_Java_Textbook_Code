@@ -1,0 +1,4 @@
+Initial balance: $1000.00
+Balance after deposit: $1200.00
+Balance after withdrawal: $1100.00
+Balance after interest: $1155.00

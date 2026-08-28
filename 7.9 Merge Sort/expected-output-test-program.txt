@@ -1,0 +1,4 @@
+Enter up to 10 integers (q to quit):
+45 2 -14 19 36 10 4 q
+Sorted List:
+[-14, 2, 4, 10, 19, 36, 45]

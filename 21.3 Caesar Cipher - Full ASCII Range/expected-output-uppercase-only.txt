@@ -1,0 +1,5 @@
+Enter a message: HELLO WORLD
+Enter a shift: 5
+Full range mode? (y/n): n
+Mode: Upper Case Only
+Encrypted: MJQQT BTWQI

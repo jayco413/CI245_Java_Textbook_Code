@@ -1,0 +1,28 @@
+Enter a numerator and denominator: 4 6
+Testing constructor (n,d): R1 = 2/3
+Testing constructor (n): R2 = 4
+
+Testing getNumerator() on R1: 2
+Testing getDenominator() on R1: 3
+Testing getNumerator() on R2: 4
+Testing getDenominator() on R2: 1
+
+Testing getDecimalValue() on R1: 0.6666666666666666
+Testing getDecimalValue() on R2: 4.0
+
+Enter new numerator: 7
+Testing setNumerator() on R1: 7/3
+
+Enter new denominator: 8
+Testing setDenominator() on R2: 1/2
+
+Enter new numerator and denominator: 3 4
+Testing setFraction() on R1: 3/4
+R1 equals R2: false
+R1 * R2 = 3/8
+R2 reciprocal: 2
+R1 / R2 = 3/2
+R1 + R2 = 5/4
+R2 negated: -1/2
+R1 - R2 = 1/4
+R1 ^ R2 = 0.8660254037844386

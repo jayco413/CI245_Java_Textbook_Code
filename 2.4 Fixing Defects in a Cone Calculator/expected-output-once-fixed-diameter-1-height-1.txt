@@ -1,0 +1,4 @@
+Enter the base diameter of the cone: 1
+Enter the height of the cone: 1
+Volume: 0.26
+Surface area: 2.54

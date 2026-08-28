@@ -1,0 +1,3 @@
+Enter String 1: abcde
+Enter String 2: fghij
+The strings are NOT equal

@@ -1,0 +1,26 @@
+Enter the date in MM/dd/yyyy format (q to quit): 12/17/2022
+
+Input date: Saturday, December 17, 2022
+
+Beginning of week: Sunday, December 11, 2022
+End of week: Saturday, December 17, 2022
+
+Enter the date in MM/dd/yyyy format (q to quit): 12/18/2022
+
+Input date: Sunday, December 18, 2022
+
+Beginning of week: Sunday, December 18, 2022
+End of week: Saturday, December 24, 2022
+
+Enter the date in MM/dd/yyyy format (q to quit): 12/27/2022
+
+Input date: Tuesday, December 27, 2022
+
+Beginning of week: Sunday, December 25, 2022
+End of week: Saturday, December 31, 2022
+
+Enter the date in MM/dd/yyyy format (q to quit): notaday
+
+Error parsing date: Unparseable date: "notaday"
+
+Enter the date in MM/dd/yyyy format (q to quit): q

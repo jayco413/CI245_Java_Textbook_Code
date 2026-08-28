@@ -1,0 +1,3 @@
+Enter a guest list filename: bad_mismatch.txt
+
+HatePairCountMismatchException: line 2 declares 4 hate pair(s) but the file holds 2

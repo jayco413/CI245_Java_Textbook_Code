@@ -1,0 +1,19 @@
+Enter a compound (Q to quit): Ab
+Invalid formula! Element Ab does not exist!
+Enter a compound (Q to quit): 13
+Invalid formula! Invalid number in compound string.
+Enter a compound (Q to quit): H2GhO9
+Invalid formula! Element Gh does not exist!
+Enter a compound (Q to quit): NaCl
+Molecular weight: 58.44276928
+Enter a compound (Q to quit): CH3COOH
+Molecular weight: 60.05116
+Enter a compound (Q to quit): Nh
+Molecular weight: 284.00
+Enter a compound (Q to quit): CuSO4
+Molecular weight: 159.607
+Enter a compound (Q to quit): AgNO3
+Molecular weight: 169.87194
+Enter a compound (Q to quit): BaCl2
+Molecular weight: 208.233
+Enter a compound (Q to quit): Q

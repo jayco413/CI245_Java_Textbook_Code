@@ -1,0 +1,3 @@
+Enter a message: HELLO WORLD
+Enter a key phrase: Java Programming
+Encrypted: MRCCF WFLCP

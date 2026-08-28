@@ -1,0 +1,4 @@
+Enter a message: HELLO WORLD
+Enter key a: 5
+Enter key b: 8
+Encrypted: RCLLA OAPLX

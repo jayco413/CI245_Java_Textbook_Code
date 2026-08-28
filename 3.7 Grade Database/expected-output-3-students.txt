@@ -1,0 +1,23 @@
+Enter number of students: 3
+Student 1:
+  Enter lab 1 grade: 80
+  Enter lab 2 grade: 90
+  Enter homework 1 grade: 70
+  Enter homework 2 grade: 80
+  Enter exam grade: 88
+Student 2:
+  Enter lab 1 grade: 60
+  Enter lab 2 grade: 70
+  Enter homework 1 grade: 90
+  Enter homework 2 grade: 100
+  Enter exam grade: 55
+Student 3:
+  Enter lab 1 grade: 100
+  Enter lab 2 grade: 95
+  Enter homework 1 grade: 85
+  Enter homework 2 grade: 90
+  Enter exam grade: 91
+
+Student 1 grade: 85.8%
+Student 2 grade: 62.0%
+Student 3 grade: 92.6%

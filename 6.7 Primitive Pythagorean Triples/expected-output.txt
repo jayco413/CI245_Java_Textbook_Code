@@ -1,0 +1,12 @@
+Enter an integer: 200
+Invalid input.  Try again.
+Enter an integer: 20
+
+   a   b   c | primitive
+-------------|----------
+   3   4   5 |       yes
+   5  12  13 |       yes
+   6   8  10 |        no
+   8  15  17 |       yes
+   9  12  15 |        no
+  12  16  20 |        no

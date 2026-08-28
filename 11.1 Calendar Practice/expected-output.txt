@@ -1,0 +1,7 @@
+Enter the day: 12
+Enter the month: 4
+Enter the year: 2021
+Enter the hour (24-hour format): 5
+Enter the minute: 14
+Enter the second: 12
+Calendar date: Monday, April 12, 2021 5:14 AM

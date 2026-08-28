@@ -1,0 +1,6 @@
+The Professional goes to work and is professional.
+The Doctor goes to work and practices medicine.
+The Lawyer goes to work and practices law.
+The Accountant goes to work and tracks money.
+The Judge goes to work and practices law. The Judge interprets it too.
+The Software Engineer goes to work and writes code.

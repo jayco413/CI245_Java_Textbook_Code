@@ -1,0 +1,23 @@
+Enter a prime number: 1997
+
+** Suggested Primitive Roots Modulo 1997 **
+[80, 114, 354, 465, 568, 1003, 1098, 1256, 1270, 1407]
+
+Enter a primitive root modulo 1997: 1098
+Alice and Bob agree upon prime number 1997 and generator 1098.
+
+Alice's private key, a, is 1134.
+Alice computes public key g^a mod p = 1098^1134 mod 1997 = 144.
+
+Bob's private key, b, is 264.
+Bob computes public key g^b mod p = 1098^264 mod 1997 = 119.
+
+Alice and Bob exchange public keys.
+
+Alice receives Bob's public key, 119.
+Alice computes 119^1134 mod 1997 = 1893.
+Alice knows shared secret 1893.
+
+Bob receives Alice's public key, 144.
+Bob computes 144^264 mod 1997 = 1893.
+Bob knows shared secret 1893.

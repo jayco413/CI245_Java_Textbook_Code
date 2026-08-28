@@ -1,0 +1,28 @@
+Enter three integers: 2 50 6
+Invalid input!
+Enter three integers: 2 5 6
+Surface Area: 104
+Volume: 60
+
+Top View (2 x 5):
+* *
+* *
+* *
+* *
+* *
+
+Side View (2 x 6):
+* *
+* *
+* *
+* *
+* *
+* *
+
+Front View (5 x 6):
+* * * * *
+*       *
+*       *
+*       *
+*       *
+* * * * *

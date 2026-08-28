@@ -1,0 +1,45 @@
+Player's hand: AS 10S JS QS KS
+Player has a Royal Flush
+Remaining Cards: 0
+
+Player's hand: 10H 9H JH QH 8H
+Player has a Straight Flush
+Remaining Cards: 0
+
+Player's hand: 10C 10D 10H 10S 8C
+Player has a Four of a Kind
+Remaining Cards: 0
+
+Player's hand: 3D 7C 3S 7H 3C
+Player has a Full House
+Remaining Cards: 0
+
+Player's hand: AC QC 10C 6C 5C
+Player has a Flush
+Remaining Cards: 0
+
+Player's hand: KC 9D QS 10H JC
+Player has a Straight
+Remaining Cards: 0
+
+Player's hand: 5H 3H 3C 3S AS
+Player has a Three of a Kind
+Remaining Cards: 0
+
+Player's hand: 4S KD 10C 4D 10H
+Player has a Two Pair
+Remaining Cards: 0
+
+Player's hand: 3C 4H 3D 10H QC
+Player has a Pair
+Remaining Cards: 0
+
+Player's hand: 5D 8C QS 10C 6S
+Player has a High Card
+Remaining Cards: 0
+
+Random Player 1's hand: 10C AC 4C 9C JC
+Random Player 1 has a Flush
+Random Player 2's hand: QH 7H 8C 5H KH
+Random Player 2 has a High Card
+Remaining Cards: 42

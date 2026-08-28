@@ -1,0 +1,6 @@
+[   1234.57]
+[left      ]
+[1,234,567]
+[hello world]
+[twice twice]
+100%

@@ -1,0 +1,2 @@
+Before shuffling: [apple, banana, cherry, date]
+After shuffling: [cherry, date, apple, banana]

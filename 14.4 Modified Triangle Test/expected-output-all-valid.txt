@@ -1,0 +1,15 @@
+Enter a base: 12.345
+Enter a height: 67.891
+Enter a thickness: 23.456
+
+Base: 12.345 units
+Height: 67.891 units
+Area: 419.057 sq units
+Prism Volume: 9829.406 cu units
+
+*** doubling the base and height ***
+
+Base: 24.690 units
+Height: 135.782 units
+Area: 1676.229 sq units
+Prism Volume: 39317.622 cu units

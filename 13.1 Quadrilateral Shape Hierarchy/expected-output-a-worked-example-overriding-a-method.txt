@@ -1,0 +1,11 @@
+Municipality display:
+Municipality of Upstate
+
+Town display:
+Town of New Hartford
+
+City display:
+City of Rome
+
+City cast to Municipality display:
+City of Rome

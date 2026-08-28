@@ -1,0 +1,4 @@
+Enter a message: Attack at dawn
+Enter a TripleDES key: shortkey
+Key padded to: shortkey0000000000000000
+Encrypted (hex): 62287C91EC76525E6DBABD024EE18295

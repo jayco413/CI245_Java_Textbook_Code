@@ -1,0 +1,10 @@
+Enter expression: f(x) = sin(x) ^ 2
+
+  Infix Tokens: [sin, (, x, ), ^, 2]
+Postfix Tokens: [x, sin, 2, ^]
+
+Enter values for x (q to quit): 1.57 3.14 4.71 6.28 q
+f(1.57) = 1.00
+f(3.14) = 0.00
+f(4.71) = 1.00
+f(6.28) = 0.00

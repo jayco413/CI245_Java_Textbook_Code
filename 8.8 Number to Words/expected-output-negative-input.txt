@@ -1,0 +1,2 @@
+Enter a number: -67453
+negative sixty-seven thousand four hundred fifty-three

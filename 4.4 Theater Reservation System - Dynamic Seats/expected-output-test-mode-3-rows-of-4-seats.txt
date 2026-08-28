@@ -1,0 +1,91 @@
+Enter number of rows: 3
+Enter number of seats per row: 17
+Invalid input. Try again.
+Enter number of seats per row: 4
+Test Mode (Y/N)?: Y
+
+Please enter a row: 2
+Available seats: A B C D
+Which seat, enter Q for none?: Q
+Please enter a row: 3
+Available seats: A B C D
+Which seat, enter Q for none?: C
+You have booked seat: 3C
+Please enter a row: 1
+Available seats: A B C D
+Which seat, enter Q for none?: Q
+Please enter a row: 3
+Available seats: A B D
+Which seat, enter Q for none?: Q
+Please enter a row: 2
+Available seats: A B C D
+Which seat, enter Q for none?: B
+You have booked seat: 2B
+Please enter a row: 3
+Available seats: A B D
+Which seat, enter Q for none?: D
+You have booked seat: 3D
+Please enter a row: 2
+Available seats: A C D
+Which seat, enter Q for none?: D
+You have booked seat: 2D
+Please enter a row: 1
+Available seats: A B C D
+Which seat, enter Q for none?: Q
+Please enter a row: 3
+Available seats: A B
+Which seat, enter Q for none?: A
+You have booked seat: 3A
+Please enter a row: 2
+Available seats: A C
+Which seat, enter Q for none?: A
+You have booked seat: 2A
+Please enter a row: 3
+Available seats: B
+Is this seat acceptable (Y/N)?: Y
+You have booked seat: 3B
+Please enter a row: 2
+Available seats: C
+Is this seat acceptable (Y/N)?: N
+Please enter a row: 2
+Available seats: C
+Is this seat acceptable (Y/N)?: N
+Please enter a row: 1
+Available seats: A B C D
+Which seat, enter Q for none?: A
+You have booked seat: 1A
+Please enter a row: 2
+Available seats: C
+Is this seat acceptable (Y/N)?: N
+Please enter a row: 2
+Available seats: C
+Is this seat acceptable (Y/N)?: N
+Please enter a row: 1
+Available seats: B C D
+Which seat, enter Q for none?: D
+You have booked seat: 1D
+Please enter a row: 2
+Available seats: C
+Is this seat acceptable (Y/N)?: N
+Please enter a row: 2
+Available seats: C
+Is this seat acceptable (Y/N)?: N
+Please enter a row: 1
+Available seats: B C
+Which seat, enter Q for none?: Q
+Please enter a row: 3
+This row is full, would you like row #1 (Y/N)?: N
+Please enter a row: 2
+Available seats: C
+Is this seat acceptable (Y/N)?: Y
+You have booked seat: 2C
+Please enter a row: 1
+Available seats: B C
+Which seat, enter Q for none?: B
+You have booked seat: 1B
+Please enter a row: 3
+This row is full, would you like row #1 (Y/N)?: Y
+Available seats: C
+Is this seat acceptable (Y/N)?: Y
+You have booked seat: 1C
+All seats are reserved.

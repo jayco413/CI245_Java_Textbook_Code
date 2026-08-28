@@ -1,0 +1,4 @@
+Enter a double: 3.5
+Your double: 3.5
+Enter a string with spaces: hello world
+Your string: hello world

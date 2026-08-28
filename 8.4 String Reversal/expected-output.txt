@@ -1,0 +1,3 @@
+Enter a string: I love programming
+Character-by-character: gnimmargorp evol I
+Word-by-word: programming love I

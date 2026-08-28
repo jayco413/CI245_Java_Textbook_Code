@@ -1,0 +1,3 @@
+Enter a string: BaNaNa 123
+Upper Case: BANANA 123
+Lower Case: banana 123

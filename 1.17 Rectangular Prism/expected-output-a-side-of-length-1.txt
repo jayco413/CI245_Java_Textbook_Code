@@ -1,0 +1,23 @@
+Enter three integers: 1 4 5
+Surface Area: 58
+Volume: 20
+
+Top View (1 x 4):
+*
+*
+*
+*
+
+Side View (1 x 5):
+*
+*
+*
+*
+*
+
+Front View (4 x 5):
+* * * *
+*     *
+*     *
+*     *
+* * * *

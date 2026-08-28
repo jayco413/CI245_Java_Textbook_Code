@@ -1,0 +1,16 @@
+Testing adding books to the library:
+
+Testing borrowing a book:
+
+Testing finding a book that doesn't exist:
+The book 'Moby Dick' was not found in the library.
+
+Testing finding a book that does exist:
+Found the book: Pride and Prejudice by Jane Austen (1813)
+
+Testing printing the contents of the library:
+Pride and Prejudice by Jane Austen (1813)
+
+Returning the borrowed book and reprinting:
+The Great Gatsby by F. Scott Fitzgerald (1925)
+Pride and Prejudice by Jane Austen (1813)

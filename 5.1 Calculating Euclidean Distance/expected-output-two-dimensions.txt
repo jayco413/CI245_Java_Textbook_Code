@@ -1,0 +1,4 @@
+How many dimensions? 2
+Enter first point: 0 1
+Enter second point: 0 2
+Euclidean distance: 1.00

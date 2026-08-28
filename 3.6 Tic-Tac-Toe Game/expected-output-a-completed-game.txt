@@ -1,0 +1,71 @@
+ 1 | 2 | 3
+-----------
+ 4 | 5 | 6
+-----------
+ 7 | 8 | 9
+
+Make your move Player X: 1
+ X | 2 | 3
+-----------
+ 4 | 5 | 6
+-----------
+ 7 | 8 | 9
+
+Make your move Player O: 15
+Invalid input! Please try again.
+
+Make your move Player O: 7
+ X | 2 | 3
+-----------
+ 4 | 5 | 6
+-----------
+ O | 8 | 9
+
+Make your move Player X: 1
+Invalid input! Please try again.
+
+Make your move Player X: 2
+ X | X | 3
+-----------
+ 4 | 5 | 6
+-----------
+ O | 8 | 9
+
+Make your move Player O: -2
+Invalid input! Please try again.
+
+Make your move Player O: 3
+ X | X | O
+-----------
+ 4 | 5 | 6
+-----------
+ O | 8 | 9
+
+Make your move Player X: 5
+ X | X | O
+-----------
+ 4 | X | 6
+-----------
+ O | 8 | 9
+
+Make your move Player O: 9
+ X | X | O
+-----------
+ 4 | X | 6
+-----------
+ O | 8 | O
+
+Make your move Player X: 6
+ X | X | O
+-----------
+ 4 | X | X
+-----------
+ O | 8 | O
+
+Make your move Player O: 8
+ X | X | O
+-----------
+ 4 | X | X
+-----------
+ O | O | O
+O has won the game!

@@ -1,0 +1,3 @@
+Enter a filename: javaisfun.txt
+
+Java is fun!

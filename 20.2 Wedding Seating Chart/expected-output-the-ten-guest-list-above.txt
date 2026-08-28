@@ -1,0 +1,10 @@
+Enter a guest list filename: wedding.txt
+
+Guests: 10
+Tables required: 3
+
+Table 1: 1 6 7 8 9
+Table 2: 2 4 10
+Table 3: 3 5
+
+Valid seating chart: true

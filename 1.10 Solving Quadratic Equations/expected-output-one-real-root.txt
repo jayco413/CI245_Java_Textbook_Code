@@ -1,0 +1,4 @@
+Enter coefficient A: 1.0
+Enter coefficient B: -12.0
+Enter coefficient C: 36.0
+The root is: 6.00

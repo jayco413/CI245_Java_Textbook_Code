@@ -1,0 +1,9 @@
+After adding two unique elements:
+ArrayList: [Banana, Apple]
+HashSet: [Apple, Banana]
+TreeSet: [Apple, Banana]
+
+After adding a duplicate element:
+ArrayList: [Banana, Apple, Banana]
+HashSet: [Apple, Banana]
+TreeSet: [Apple, Banana]

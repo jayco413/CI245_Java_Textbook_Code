@@ -1,0 +1,2 @@
+Enter f(x): 3x^a + 2x^b - 5x^c - 7x^2 + 4x + 1
+Invalid input!

@@ -1,0 +1,4 @@
+Thread 1 started
+Thread 2 started
+Thread 1 holding resource 1
+Thread 2 holding resource 2

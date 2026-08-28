@@ -1,0 +1,23 @@
+Enter a prime number: 23
+
+** All Primitive Roots Modulo 23 **
+[5, 7, 10, 11, 14, 15, 17, 19, 20, 21]
+
+Enter a primitive root modulo 23: 15
+Alice and Bob agree upon prime number 23 and generator 15.
+
+Alice's private key, a, is 13.
+Alice computes public key g^a mod p = 15^13 mod 23 = 5.
+
+Bob's private key, b, is 20.
+Bob computes public key g^b mod p = 15^20 mod 23 = 9.
+
+Alice and Bob exchange public keys.
+
+Alice receives Bob's public key, 9.
+Alice computes 9^13 mod 23 = 12.
+Alice knows shared secret 12.
+
+Bob receives Alice's public key, 5.
+Bob computes 5^20 mod 23 = 12.
+Bob knows shared secret 12.

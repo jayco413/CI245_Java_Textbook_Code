@@ -1,0 +1,4 @@
+Enter the year: 2022
+Easter Sunday: Sunday, April 17, 2022
+Ash Wednesday: Wednesday, March 2, 2022
+Palm Sunday: Sunday, April 10, 2022

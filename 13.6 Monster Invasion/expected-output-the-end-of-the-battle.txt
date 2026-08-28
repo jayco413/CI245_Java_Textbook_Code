@@ -1,0 +1,16 @@
+Rogue vs. Goblin
+Rogue attacks Goblin with Stealth Attack and deals 0 damage!
+Goblin attacks Rogue with Dagger Stab and deals 10 damage!
+Results: Rogue 50 | Goblin 3
+
+Rogue vs. Goblin
+Rogue attacks Goblin with Stealth Attack and deals 0 damage!
+Goblin attacks Rogue with Dagger Stab and deals 10 damage!
+Results: Rogue 40 | Goblin 3
+
+Rogue vs. Goblin
+Rogue attacks Goblin with Stealth Attack and deals 12 damage!
+Goblin attacks Rogue with Dagger Stab and deals 10 damage!
+Results: Rogue 30 | Goblin 0
+
+Adventurers have successfully defended the realm!

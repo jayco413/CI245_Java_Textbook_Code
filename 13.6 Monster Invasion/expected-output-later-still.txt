@@ -1,0 +1,14 @@
+Knight vs. Ogre
+Knight attacks Ogre with Sword Mastery and deals 17 damage!
+Ogre attacks Knight with Ground Smash and deals 16 damage!
+Results: Knight 132 | Ogre 198
+
+Knight vs. Ogre
+Knight attacks Ogre with Sword Mastery and deals 17 damage!
+Ogre attacks Knight with Ground Smash and deals 16 damage!
+Results: Knight 116 | Ogre 181
+
+Knight vs. Ogre
+Knight attacks Ogre with Sword Mastery and deals 17 damage!
+Ogre attacks Knight with Ground Smash and deals 16 damage!
+Results: Knight 100 | Ogre 164

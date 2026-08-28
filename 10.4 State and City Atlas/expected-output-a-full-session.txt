@@ -1,0 +1,109 @@
+Welcome to the atlas!
+
+Please enter a command
+    P = Print
+    A = Add State
+    R = Remove State
+    C = Work with Cities
+    Q = Quit the Atlas Program
+Your command: A
+Enter the name of the new state: New York
+
+Your command: C
+Enter the name of the state to work with: New York
+
+Working with Cities in New York
+    A = Add City
+    R = Remove City
+    Q = Quit and Return to State Menu
+Your command: A
+Enter the name of the new city: Syracuse
+
+Your command: Q
+Returning to State Menu
+
+Your command: P
+
+New York:
+    Syracuse
+
+Your command: A
+Enter the name of the new state: Ohio
+
+Your command: C
+Enter the name of the state to work with: Ohio
+
+Working with Cities in Ohio
+    A = Add City
+    R = Remove City
+    Q = Quit and Return to State Menu
+Your command: A
+Enter the name of the new city: Columbus
+
+Your command: A
+Enter the name of the new city: Cleveland
+
+Your command: Q
+Returning to State Menu
+
+Your command: P
+
+New York:
+    Syracuse
+Ohio:
+    Cleveland
+    Columbus
+
+Your command: C
+Enter the name of the state to work with: Ohio
+
+Working with Cities in Ohio
+    A = Add City
+    R = Remove City
+    Q = Quit and Return to State Menu
+Your command: R
+Enter the name of the city to remove: Cleveland
+
+Your command: Q
+Returning to State Menu
+
+Your command: P
+
+New York:
+    Syracuse
+Ohio:
+    Columbus
+
+Your command: R
+Enter the name of the state to remove: Ohio
+
+Your command: P
+
+New York:
+    Syracuse
+
+Your command: C
+Enter the name of the state to work with: Washington
+Sorry, this state does not exist.
+
+Your command: R
+Enter the name of the state to remove: Washington
+Sorry, this state does not exist.
+
+Your command: C
+Enter the name of the state to work with: New York
+
+Working with Cities in New York
+    A = Add City
+    R = Remove City
+    Q = Quit and Return to State Menu
+Your command: R
+Enter the name of the city to remove: New York City
+Sorry, this city does not exist.
+
+Your command: Q
+Returning to State Menu
+
+Your command: Q
+
+Goodbye!

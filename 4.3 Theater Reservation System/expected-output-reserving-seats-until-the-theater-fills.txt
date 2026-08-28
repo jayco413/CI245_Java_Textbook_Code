@@ -1,0 +1,51 @@
+Please enter a row: 1
+Available seats: A B C D E
+Which seat, enter Q for none?: B
+You have booked seat: 1B
+Please enter a row: 1
+Available seats: A C D E
+Which seat, enter Q for none?: C
+You have booked seat: 1C
+Please enter a row: 2
+Available seats: A B C D E
+Which seat, enter Q for none?: A
+You have booked seat: 2A
+Please enter a row: 1
+Available seats: A D E
+Which seat, enter Q for none?: D
+You have booked seat: 1D
+Please enter a row: 1
+Available seats: A E
+Which seat, enter Q for none?: E
+You have booked seat: 1E
+Please enter a row: 1
+Available seats: A
+Is this seat acceptable (Y/N)?: N
+Please enter a row: 1
+Available seats: A
+Is this seat acceptable (Y/N)?: Y
+You have booked seat: 1A
+Please enter a row: 1
+This row is full, would you like the other one (Y/N)?: N
+Next show is tomorrow.
+Please enter a row: 1
+This row is full, would you like the other one (Y/N)?: Y
+Available seats: B C D E
+Which seat, enter Q for none?: Q
+Please enter a row: 2
+Available seats: B C D E
+Which seat, enter Q for none?: B
+You have booked seat: 2B
+Please enter a row: 2
+Available seats: C D E
+Which seat, enter Q for none?: C
+You have booked seat: 2C
+Please enter a row: 2
+Available seats: D E
+Which seat, enter Q for none?: D
+You have booked seat: 2D
+Please enter a row: 2
+Available seats: E
+Is this seat acceptable (Y/N)?: Y
+You have booked seat: 2E
+All seats are reserved.

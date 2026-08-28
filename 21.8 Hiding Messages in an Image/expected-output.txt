@@ -1,0 +1,5 @@
+Enter a message: SOS
+Enter output filename: hidden.png
+Message requires 59 components (19 per average character).
+Image size: 250 x 155 (38,750 pixels, 116,250 components available)
+Saved hidden.png

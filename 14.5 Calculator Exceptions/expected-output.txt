@@ -1,0 +1,6 @@
+9
+-1
+20
+0
+An error occurred: Division by zero.
+An error occurred: Negative argument not allowed.

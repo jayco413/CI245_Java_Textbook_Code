@@ -1,0 +1,2 @@
+Enter a card: Q
+Value of the card: 12

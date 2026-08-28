@@ -1,0 +1,6 @@
+Enter the day: 15
+Enter the month: 12
+Enter the year: 2022
+Original date: Thursday, December 15, 2022
+Date + 7 days: Thursday, December 22, 2022
+Date - 7 days: Thursday, December 8, 2022

@@ -1,0 +1,8 @@
+Enter a base: 0
+Enter a height: 7.8
+Enter a thickness: 5.4
+
+TriangleDimensionException: base <= 0
+	at Triangle.setBase(Triangle.java:16)
+	at Triangle.<init>(Triangle.java:6)
+	at TriangleTest.main(TriangleTest.java:19)

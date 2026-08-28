@@ -1,0 +1,4 @@
+Enter first point (x, y, z): 0 0 0
+Enter second point (x, y, z): 1 1 1
+Enter third point (x, y, z): 1 1 0
+The area of the triangle is: 0.71

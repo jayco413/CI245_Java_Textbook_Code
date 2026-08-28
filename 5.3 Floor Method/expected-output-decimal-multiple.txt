@@ -1,0 +1,3 @@
+Enter number: 5.37
+Enter multiple: 0.05
+Result: 5.35

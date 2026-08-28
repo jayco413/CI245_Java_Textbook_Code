@@ -1,0 +1,8 @@
+Enter the item cost: 87.43
+Enter the cash given: 100.00
+Your change is: 12.57
+1 ten dollar bill(s)
+2 one dollar bill(s)
+2 quarter(s)
+1 nickel(s)
+2 penny(s)

@@ -1,0 +1,56 @@
+Test String: abcde
+
+*** TEST OF LEFT METHOD ***
+left("abcde", 0) =
+left("abcde", 1) = a
+left("abcde", 2) = ab
+left("abcde", 3) = abc
+left("abcde", 4) = abcd
+left("abcde", 5) = abcde
+left("abcde", 6) = abcde
+
+*** TEST OF RIGHT METHOD ***
+right("abcde", 0) =
+right("abcde", 1) = e
+right("abcde", 2) = de
+right("abcde", 3) = cde
+right("abcde", 4) = bcde
+right("abcde", 5) = abcde
+right("abcde", 6) = abcde
+
+*** TEST OF MID1 METHOD ***
+mid1("abcde", 1) = abcde
+mid1("abcde", 2) = bcde
+mid1("abcde", 3) = cde
+mid1("abcde", 4) = de
+mid1("abcde", 5) = e
+mid1("abcde", 6) =
+
+*** TEST OF MID2 METHOD ***
+mid2("abcde", 1, 0) =
+mid2("abcde", 1, 1) = a
+mid2("abcde", 1, 2) = ab
+mid2("abcde", 1, 3) = abc
+mid2("abcde", 1, 4) = abcd
+mid2("abcde", 1, 5) = abcde
+mid2("abcde", 1, 6) = abcde
+mid2("abcde", 2, 0) =
+mid2("abcde", 2, 1) = b
+mid2("abcde", 2, 2) = bc
+mid2("abcde", 2, 3) = bcd
+mid2("abcde", 2, 4) = bcde
+mid2("abcde", 2, 5) = bcde
+mid2("abcde", 3, 0) =
+mid2("abcde", 3, 1) = c
+mid2("abcde", 3, 2) = cd
+mid2("abcde", 3, 3) = cde
+mid2("abcde", 3, 4) = cde
+mid2("abcde", 4, 0) =
+mid2("abcde", 4, 1) = d
+mid2("abcde", 4, 2) = de
+mid2("abcde", 4, 3) = de
+mid2("abcde", 5, 0) =
+mid2("abcde", 5, 1) = e
+mid2("abcde", 5, 2) = e
+mid2("abcde", 6, 0) =
+mid2("abcde", 6, 1) =

@@ -1,0 +1,30 @@
+Please enter the mountain name (or -1 to quit): MountMarcyHighPeakOfNY
+INVALID NAME PLEASE TRY AGAIN
+Please enter the mountain name (or -1 to quit): Marcy
+Please enter the mountain elevation: 100000
+INVALID ELEVATION PLEASE TRY AGAIN
+Please enter the mountain elevation: 5344
+Please enter the mountain name (or -1 to quit): Washington
+Please enter the mountain elevation: 6288
+Please enter the mountain name (or -1 to quit): Katahdin
+Please enter the mountain elevation: 5268
+Please enter the mountain name (or -1 to quit): Mansfield
+Please enter the mountain elevation: 4393
+Please enter the mountain name (or -1 to quit): -1
+
+      |          HashMap          |          TreeMap          |
+Entry |                  | Elev.  |                  | Elev.  |
+------|------------------|--------|------------------|--------|
+    0 | Mansfield        |   4393 | Katahdin         |   5268 |
+    1 | Katahdin         |   5268 | Mansfield        |   4393 |
+    2 | Marcy            |   5344 | Marcy            |   5344 |
+    3 | Washington       |   6288 | Washington       |   6288 |
+
+Please enter mountains to remove (quit with -1):
+Mansfield Marcy -1
+
+      |          HashMap          |          TreeMap          |
+Entry |                  | Elev.  |                  | Elev.  |
+------|------------------|--------|------------------|--------|
+    0 | Katahdin         |   5268 | Katahdin         |   5268 |
+    1 | Washington       |   6288 | Washington       |   6288 |

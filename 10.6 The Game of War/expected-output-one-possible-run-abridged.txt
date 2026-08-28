@@ -1,0 +1,61 @@
+Player 1's Deck
+K  6  9  7  4  5  9  J 10  J
+J  2  8  6 10  9  Q  A  A  3
+2  5  4  8  2  8
+
+Player 2's Deck
+5  Q  K  K  8  3  Q  7  3  A
+7  A 10  6  6  K  5  7  4  4
+9  Q  2  3  J 10
+
+Player 1 wins the round.
+K  5
+P1: 27 P2: 25
+
+Player 2 wins the round.
+6  Q
+P1: 26 P2: 26
+
+... (many rounds omitted) ...
+
+War!
+6  6
+Player 2 wins the round.
+6  6 10  6  9  K  Q  5  A  7
+P1: 22 P2: 30
+
+War!
+4  4
+War!
+4  4  J  9  A  3  8  9  Q  Q
+Player 1 wins the round.
+4  4  J  9  A  3  8  9  Q  Q  8  6  2  J  A  2  K  7
+P1: 31 P2: 21
+
+Player 1 wins the round.
+3  2
+P1: 32 P2: 20
+
+... (many rounds omitted) ...
+
+Player 2 wins the round.
+6 10
+P1:  2 P2: 50
+
+Player 2 wins the round.
+7  9
+P1:  1 P2: 51
+
+Player 1 wins the round.
+9  2
+P1:  2 P2: 50
+
+Player 2 wins the round.
+2  4
+P1:  1 P2: 51
+
+Player 2 wins the round.
+9  K
+P1:  0 P2: 52
+
+Player 2 wins!

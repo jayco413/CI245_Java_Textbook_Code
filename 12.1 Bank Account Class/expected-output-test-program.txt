@@ -1,0 +1,21 @@
+Initial balances:
+Account 1: $1000.00
+Account 2: $500.00
+
+Balances after transactions:
+Account 1: $1500.00
+Account 2: $400.00
+
+Balances after transfer:
+Account 1: $1300.00
+Account 2: $600.00
+
+Balances after applying interest:
+Account 1: $1365.00
+Account 2: $630.00
+
+Account 1 balance in another currency: $1228.50
+
+Balances after applying new interest rate:
+Account 1: $1405.95
+Account 2: $648.90

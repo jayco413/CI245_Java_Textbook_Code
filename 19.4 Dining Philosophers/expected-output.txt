@@ -1,0 +1,24 @@
+Philosopher 4 is thinking.
+Philosopher 3 is thinking.
+Philosopher 0 is thinking.
+Philosopher 1 is thinking.
+Philosopher 2 is thinking.
+Philosopher 1 picked up left fork.
+Philosopher 1 picked up right fork.
+Philosopher 1 is eating.
+Philosopher 3 picked up left fork.
+Philosopher 3 picked up right fork.
+Philosopher 3 is eating.
+Philosopher 3 put down both forks.
+Philosopher 3 is thinking.
+Philosopher 0 picked up left fork.
+Philosopher 1 put down both forks.
+Philosopher 1 is thinking.
+Philosopher 2 picked up left fork.
+Philosopher 2 picked up right fork.
+Philosopher 0 picked up right fork.
+Philosopher 0 is eating.
+Philosopher 2 is eating.
+Philosopher 4 picked up left fork.
+Philosopher 0 put down both forks.
+Philosopher 4 picked up right fork.

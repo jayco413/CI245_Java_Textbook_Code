@@ -1,0 +1,5 @@
+Enter a message: Hello, World!
+Enter a shift: 5
+Full range mode? (y/n): y
+Mode: Full Range
+Encrypted: Mjqqt1 \twqi&

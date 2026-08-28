@@ -1,0 +1,4 @@
+Enter coefficient A: 1.0
+Enter coefficient B: -2.0
+Enter coefficient C: 5.0
+The roots are: 1.00 ±2.00i

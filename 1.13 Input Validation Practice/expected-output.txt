@@ -1,0 +1,35 @@
+Please enter an odd integer: 4
+Invalid input. Please try again.
+Please enter an odd integer: 3
+Correct!
+
+Please enter a positive prime integer less than 100: 101
+Invalid input. Please try again.
+Please enter a positive prime integer less than 100: 98
+Invalid input. Please try again.
+Please enter a positive prime integer less than 100: 97
+Correct!
+
+Please enter an integer multiple of 2: -7
+Invalid input. Please try again.
+Please enter an integer multiple of 2: -8
+Correct!
+
+Please enter a negative integer: 14
+Invalid input. Please try again.
+Please enter a negative integer: -4
+Correct!
+
+Please enter a letter between N and V: X
+Invalid input. Please try again.
+Please enter a letter between N and V: N
+Invalid input. Please try again.
+Please enter a letter between N and V: p
+Invalid input. Please try again.
+Please enter a letter between N and V: P
+Correct!
+
+Please enter an integer that solves x^2+5x+6: 7
+Invalid input. Please try again.
+Please enter an integer that solves x^2+5x+6: -2
+Correct!

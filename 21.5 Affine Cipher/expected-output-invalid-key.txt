@@ -1,0 +1,5 @@
+Enter a message: HELLO WORLD
+Enter key a: 4
+Enter key b: 8
+Key a=4 is not coprime with 26; using a=1 instead.
+Encrypted: PMTTW EWZTL

@@ -1,0 +1,8 @@
+Soft hands correct: true
+Hard hands correct: true
+Split hands correct: true
+
+Enter the dealer's up card: 8
+Enter the player's first card: J
+Enter the player's second card: 2
+Basic Strategy Recommendation: H

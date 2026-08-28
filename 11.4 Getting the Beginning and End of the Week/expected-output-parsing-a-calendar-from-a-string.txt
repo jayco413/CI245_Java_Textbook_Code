@@ -1,0 +1,2 @@
+Enter the date in MM/dd/yyyy format: 12/17/2022
+Calendar date: Saturday, December 17, 2022

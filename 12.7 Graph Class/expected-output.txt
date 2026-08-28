@@ -1,0 +1,73 @@
+Testing adding vertices and edges
+
+Vertex a
+Edge to c with weight 3.00
+Edge to d with weight 5.00
+Edge to b with weight 1.00
+Vertex b
+Edge to a with weight 1.00
+Vertex c
+Edge to a with weight 3.00
+Edge to d with weight 1.00
+Vertex d
+Edge to c with weight 1.00
+
+
+Edge count: 7
+Edge count (ignore bidirectional): 4
+Edge List: [a -- 3.00 --> c, a -- 5.00 --> d, a -- 1.00 --> b, b -- 1.00 --> a, c -- 3.00 --> a,
+c -- 1.00 --> d, d -- 1.00 --> c]
+Edge Weight from a to c: 3.00
+Vertex Count: 4
+Vertex List: [a, b, c, d]
+Edge exists a to c: true
+Edge exists b to c: false
+Edge exists a to c: true
+Edge exists b to c: false
+Vertex a exists: true
+Vertex e exists: false
+
+Removing vertex a...
+Vertex b
+No Outbound Edges
+Vertex c
+Edge to d with weight 1.00
+Vertex d
+Edge to c with weight 1.00
+
+
+Adding edges to delete...
+Vertex b
+Edge to h with weight 1.00
+Edge to f with weight 1.00
+Edge to g with weight 1.00
+Edge to e with weight 1.00
+Vertex c
+Edge to d with weight 1.00
+Vertex d
+Edge to c with weight 1.00
+Vertex e
+Edge to b with weight 1.00
+Vertex f
+Edge to b with weight 1.00
+Vertex g
+Edge to b with weight 1.00
+Vertex h
+Edge to b with weight 1.00
+
+
+Deleting edges...
+Vertex b
+No Outbound Edges
+Vertex c
+Edge to d with weight 1.00
+Vertex d
+Edge to c with weight 1.00
+Vertex e
+No Outbound Edges
+Vertex f
+Edge to b with weight 1.00
+Vertex g
+No Outbound Edges
+Vertex h
+Edge to b with weight 1.00

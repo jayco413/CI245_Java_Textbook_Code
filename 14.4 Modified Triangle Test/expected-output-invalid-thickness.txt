@@ -1,0 +1,19 @@
+Enter a base: 12.1
+Enter a height: 7.45
+Enter a thickness: -15
+
+Base: 12.100 units
+Height: 7.450 units
+Area: 45.073 sq units
+TriangleDimensionException: thickness <= 0
+	at Triangle.getPrismVolume(Triangle.java:38)
+	at TriangleTest.main(TriangleTest.java:30)
+
+*** doubling the base and height ***
+
+Base: 24.200 units
+Height: 14.900 units
+Area: 180.290 sq units
+TriangleDimensionException: thickness <= 0
+	at Triangle.getPrismVolume(Triangle.java:38)
+	at TriangleTest.main(TriangleTest.java:50)

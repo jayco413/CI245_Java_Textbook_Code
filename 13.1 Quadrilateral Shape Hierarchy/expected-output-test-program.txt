@@ -1,0 +1,12 @@
+Quadrilateral Area:      19.00
+Quadrilateral Perimeter: 17.55
+Rectangle Area:          20.00
+Rectangle Perimeter:     18.00
+Square Area:             16.00
+Square Perimeter:        16.00
+Rhombus Area:            13.86
+Rhombus Perimeter:       16.00
+Parallelogram Area:      17.32
+Parallelogram Perimeter: 18.00
+Trapezoid Area:          13.50
+Trapezoid Perimeter:     15.08

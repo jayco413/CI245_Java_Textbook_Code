@@ -1,0 +1,23 @@
+FACTORIAL method
+
+2 choose 2 = 1
+3 choose 2 = 3
+4 choose 3 = 4
+10 choose 2 = 45
+52 choose 5 = Arithmetic Exception!
+60 choose 4 = Arithmetic Exception!
+75 choose 3 = Arithmetic Exception!
+100 choose 4 = Arithmetic Exception!
+Run time for these calculations: 0.7045 milliseconds
+
+RECURSIVE method
+
+2 choose 2 = 1
+3 choose 2 = 3
+4 choose 3 = 4
+10 choose 2 = 45
+52 choose 5 = 2598960
+60 choose 4 = 487635
+75 choose 3 = 67525
+100 choose 4 = 3921225
+Run time for these calculations: 24.9714 milliseconds

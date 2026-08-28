@@ -1,0 +1,6 @@
+Rogue - Level: 12
+Barbarian - Level: 13
+Fighter - Level: 14
+Knight - Level: 17
+Wizard - Level: 18
+Elf - Level: 20

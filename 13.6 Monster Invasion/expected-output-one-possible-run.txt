@@ -1,0 +1,13 @@
+Elf vs. Sorcerer
+Elf attacks Sorcerer with Multi-Arrow Attack and deals 20 damage!
+Sorcerer attacks Elf with Staff Strike and deals 21 damage!
+Elf casts Freeze on Sorcerer and deals 0 damage!
+Sorcerer casts Electrify on Elf and deals 0 damage!
+Results: Elf 119 | Sorcerer 170
+
+Elf vs. Sorcerer
+Elf attacks Sorcerer with Multi-Arrow Attack and deals 20 damage!
+Sorcerer attacks Elf with Staff Strike and deals 0 damage!
+Elf casts Freeze on Sorcerer and deals 0 damage!
+Sorcerer casts Electrify on Elf and deals 27 damage!
+Results: Elf 92 | Sorcerer 150

@@ -1,0 +1,6 @@
+Please enter a radius: 10.0
+Diameter: 2r = 2(10.00) = 20.00
+Circumference: 2(pi)r = 2(pi)(10.00) = 62.83
+Circle Surface Area: pi(r^2) = pi(10.00^2) = 314.16
+Sphere Volume: (4/3)pi(r^3) = (4/3)pi(10.00^3) = 4188.79
+Sphere Surface Area: 4(pi)(r^2) = 4(pi)(10.00^2) = 1256.64

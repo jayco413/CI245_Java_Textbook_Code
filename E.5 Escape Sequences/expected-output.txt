@@ -1,0 +1,8 @@
+Name:	Java
+Line one
+Line two
+She said "hi".
+C:\Users\Public
+'
+é
+ABC

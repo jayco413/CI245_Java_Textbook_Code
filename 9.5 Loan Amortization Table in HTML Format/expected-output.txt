@@ -1,0 +1,4 @@
+Enter the principal: 5000
+Enter the interest as a percent: 6
+Enter the term in years: 1
+Output file: loan_output.html

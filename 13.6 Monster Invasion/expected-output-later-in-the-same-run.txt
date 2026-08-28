@@ -1,0 +1,5 @@
+Wizard vs. Wyrm
+Wizard attacks Wyrm with Blast and deals 18 damage!
+Wyrm attacks Wizard with Tail Whip and deals 0 damage!
+Wizard casts Stun on Wyrm and deals 18 damage!
+Results: Wizard 64 | Wyrm 148

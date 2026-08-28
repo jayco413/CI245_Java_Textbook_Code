@@ -1,0 +1,27 @@
+Printing entire dictionary:
+Word: apple
+Definitions: [A fruit that grows on apple trees., A tech company.]
+Word: book
+Definitions: [A set of written or printed pages.]
+Word: cat
+Definitions: [A small carnivorous mammal.]
+Word: elephant
+Definitions: [A large herbivorous mammal.]
+
+After removing a definition of 'apple':
+Word: apple
+Definitions: [A fruit that grows on apple trees.]
+Word: book
+Definitions: [A set of written or printed pages.]
+Word: cat
+Definitions: [A small carnivorous mammal.]
+Word: elephant
+Definitions: [A large herbivorous mammal.]
+
+After removing 'cat':
+Word: apple
+Definitions: [A fruit that grows on apple trees.]
+Word: book
+Definitions: [A set of written or printed pages.]
+Word: elephant
+Definitions: [A large herbivorous mammal.]
