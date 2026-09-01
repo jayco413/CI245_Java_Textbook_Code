@@ -22,12 +22,12 @@ public class FindController {
     private TextArea txtEditor;
 
     @FXML
-    void btnFindNext_onAction(ActionEvent event) {
+    void btnFindNext_OnAction(ActionEvent event) {
         findText(true);
     }
 
     @FXML
-    void btnFindPrevious_onAction(ActionEvent event) {
+    void btnFindPrevious_OnAction(ActionEvent event) {
         findText(false);
     }
 

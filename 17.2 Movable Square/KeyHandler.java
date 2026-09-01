@@ -32,6 +32,11 @@ public abstract class KeyHandler {
     public void performKeyEffects() {
         if (scene == null) {
             scene = getScene();
+
+            if (scene == null) {
+                return;
+            }
+
             activeKeys = new ArrayList<KeyCode>();
 
             scene.setOnKeyPressed(e -> {

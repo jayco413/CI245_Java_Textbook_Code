@@ -14,7 +14,7 @@ public class HypotenuseCalculatorController {
     @FXML
     private Button btnCalculate;
     @FXML
-    private TextField txtHypoteneuse;
+    private TextField txtHypotenuse;
     @FXML
     private TextField txtLeg1;
     @FXML
@@ -41,7 +41,7 @@ public class HypotenuseCalculatorController {
                 double hypotenuse =
                     Math.sqrt(smallLeg * smallLeg + largeLeg * largeLeg);
                 String hypotenuseText = twoDigits.format(hypotenuse);
-                txtHypoteneuse.setText(hypotenuseText);
+                txtHypotenuse.setText(hypotenuseText);
 
                 GraphicsContext gc = cvTriangle.getGraphicsContext2D();
                 // YOUR CODE HERE

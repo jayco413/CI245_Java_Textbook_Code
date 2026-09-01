@@ -9,9 +9,9 @@ public class PascalTriangle {
 
         int[] resultRow = generateRow(row);
 
-        System.out.print("Row: ");
+        System.out.print("Row:");
         for (int value : resultRow) {
-            System.out.print(value + " ");
+            System.out.print(" " + value);
         }
         System.out.println();
 

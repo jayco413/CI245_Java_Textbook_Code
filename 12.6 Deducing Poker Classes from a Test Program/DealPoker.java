@@ -5,7 +5,7 @@ import java.util.Collections;
 
 public class DealPoker {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
             DeckOfCards deck = new DeckOfCards();
             deck.Shuffle();

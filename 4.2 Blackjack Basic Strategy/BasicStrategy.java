@@ -12,7 +12,7 @@ public class BasicStrategy {
 
     public static void main(String[] args) {
 
-        String cards[] = { "A", "K", "Q", "J", "10", "9",
+        String[] cards = { "A", "K", "Q", "J", "10", "9",
             "8", "7", "6", "5", "4", "3", "2" };
 
         String hardhands = "";
@@ -21,7 +21,7 @@ public class BasicStrategy {
 
         // grading program, runs through all possibilities
         for (int i = 0; i < cards.length; i++) {
-            for (int j = i; j < cards.length; j++) {
+            for (int j = 0; j < cards.length; j++) {
                 for (int k = 0; k < cards.length; k++) {
                     String dCard = cards[i];
                     String pCard1 = cards[j];
@@ -47,11 +47,11 @@ public class BasicStrategy {
 
         // compares against the known solution
         System.out.println("Soft hands correct: "
-            + MD5(softhands).equals("b88ed4ea7ca560cff036c1f6bbd3ca6a"));
+            + MD5(softhands).equals("3a9eb1f92ff625fb994393d60e1520e4"));
         System.out.println("Hard hands correct: "
-            + MD5(hardhands).equals("46c00cee902607019486e1c64bc407a6"));
+            + MD5(hardhands).equals("994a9b885a0370014210940a7393bf01"));
         System.out.println("Split hands correct: "
-            + MD5(splithands).equals("324a60c5a34229625229ebb4ad5e525d"));
+            + MD5(splithands).equals("4abaa8a171a5f8f40f9e60c2c49a020a"));
         System.out.println();
 
         // user input as specified by the lab problem
@@ -88,10 +88,10 @@ public class BasicStrategy {
 
         // For output use the strings in the table: H, D, S, H/SU, SP
         // be sure to set the variable output to the result you want
-        // ************ BEGIN WRITING YOU CODE HERE ******************* //
+        // ************ BEGIN WRITING YOUR CODE HERE ******************* //
 
 
-        // ************ END WRITING YOU CODE HERE ******************* //
+        // ************ END WRITING YOUR CODE HERE ******************* //
 
         // Return the output
         return output;
