@@ -1,0 +1,7 @@
+Average: 64.50
+Grace scored 88
+Exception in thread "main" java.lang.NullPointerException: Cannot invoke
+    "String.equals(Object)" because "this.names[i]" is null
+	at GradeBook.scoreOf(GradeBook.java:29)
+	at GradeBook.report(GradeBook.java:39)
+	at GradeBook.main(GradeBook.java:48)

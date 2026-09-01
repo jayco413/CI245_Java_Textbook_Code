@@ -1,0 +1,4 @@
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Error reading module: javafx-base-25.0.4-win.jar
+Caused by: java.lang.module.InvalidModuleDescriptorException:
+    Unsupported major.minor version 67.0

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Pos?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="300.0" prefWidth="450.0" spacing="12.0"
+      xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml">
+    <children>
+        <Label text="Hello World" style="-fx-font-size: 30;" />
+        <ImageView fitWidth="120.0" preserveRatio="true">
+            <image>
+                <Image url="@icon.png" />
+            </image>
+        </ImageView>
+    </children>
+</VBox>
