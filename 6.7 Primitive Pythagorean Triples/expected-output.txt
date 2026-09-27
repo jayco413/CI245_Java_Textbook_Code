@@ -1,5 +1,5 @@
 Enter an integer: 200
-Invalid input.  Try again.
+Invalid input. Try again.
 Enter an integer: 20
 
    a   b   c | primitive

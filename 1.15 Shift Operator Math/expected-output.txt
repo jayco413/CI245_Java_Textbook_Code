@@ -1,3 +1,5 @@
-Please enter an integer: 17
+Please enter a non-negative integer: -17
+Invalid input. Please try again.
+Please enter a non-negative integer: 17
 17 / 2 = 17 >> 1 = 8
 17 * 2 = 17 << 1 = 34

@@ -1,5 +1,5 @@
 Please enter an integer: 14
-Invalid input.  Try again.
+Invalid input. Try again.
 
 Please enter an integer: 9
 

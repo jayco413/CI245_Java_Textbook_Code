@@ -1,5 +1,5 @@
 Enter an integer: 47
-Invalid input.  Try again.
+Invalid input. Try again.
 Enter an integer: 3
 
     0  1  2  3

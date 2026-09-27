@@ -4,8 +4,17 @@ public class PascalTriangle {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a row: ");
-        int row = scanner.nextInt();
+        int row;
+        while (true) {
+            System.out.print("Enter a row: ");
+            row = scanner.nextInt();
+
+            if (row < 0 || row > 33) {
+                System.out.println("Invalid input! Please try again.");
+            } else {
+                break;
+            }
+        }
 
         int[] resultRow = generateRow(row);
 

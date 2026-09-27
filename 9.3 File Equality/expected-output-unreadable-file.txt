@@ -1,0 +1,4 @@
+Enter filename: test1.txt
+Enter filename: nosuchfile.txt
+Error reading file: nosuchfile.txt
+These files are NOT equal.

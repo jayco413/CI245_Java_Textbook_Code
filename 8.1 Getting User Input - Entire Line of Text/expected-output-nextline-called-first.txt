@@ -1,6 +1,2 @@
-Enter an int: 5
-Your integer: 5
 Enter a string with spaces: hello world
 Your string: hello world
-Enter an int: 9
-Your integer: 9

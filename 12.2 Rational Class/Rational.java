@@ -94,7 +94,7 @@ public class Rational {
         // ADD YOUR CODE HERE
     }
 
-    private int GCD(int a, int b) {
+    private int gcd(int a, int b) {
         // ADD YOUR CODE HERE
         return 0;
     }

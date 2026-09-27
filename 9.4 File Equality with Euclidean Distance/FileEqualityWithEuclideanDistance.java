@@ -20,6 +20,8 @@ public class FileEqualityWithEuclideanDistance {
             System.out.println("These files are equal.");
         } else if (distance == -1) {
             System.out.println("These files are of different lengths.");
+        } else if (distance == -2) {
+            System.out.println("These files could not be compared.");
         } else {
             System.out.println(
                 "These files are NOT equal. " +
