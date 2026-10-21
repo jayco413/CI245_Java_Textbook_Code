@@ -2,20 +2,33 @@ import java.util.Optional;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.ButtonType;
-import javafx.scene.layout.Region;
+import javafx.scene.control.TextArea;
+import javafx.stage.Stage;
 
 public class ConfirmationAlertDemo {
-    void demo() {
-        Alert alert = new Alert(AlertType.CONFIRMATION);
-        alert.setTitle("Confirmation Dialog");
-        alert.setHeaderText("Are you sure you want to do this?");
-        alert.getDialogPane().setMinHeight(Region.USE_PREF_SIZE);
+
+    private TextArea txtEditor;
+
+    void askToSave() {
+        Alert alert = new Alert(AlertType.WARNING,
+            "The text in the Untitled file has changed.\n\n"
+            + "Do you want to save the changes?",
+            ButtonType.YES, ButtonType.NO, ButtonType.CANCEL);
+        alert.initOwner(getStage());
+        alert.setTitle("Notepad");
+        alert.setHeaderText(null);
 
         Optional<ButtonType> result = alert.showAndWait();
-        if (result.get() == ButtonType.OK) {
-            // user chose "Ok"
+        if (result.isEmpty() || result.get() == ButtonType.CANCEL) {
+            // stop: do not do whatever was about to happen
+        } else if (result.get() == ButtonType.YES) {
+            // save first, then go ahead
         } else {
-            // user chose "Cancel" or closed the dialog
+            // No: go ahead and lose the changes
         }
+    }
+
+    private Stage getStage() {
+        return (Stage) txtEditor.getScene().getWindow();
     }
 }
