@@ -1,0 +1,10 @@
+Year 1: deposit 100.00, balance 1239.72
+Year 2: deposit 103.00, balance 2593.10
+Year 3: deposit 106.09, balance 4068.26
+Year 4: deposit 109.27, balance 5673.86
+Year 5: deposit 112.55, balance 7419.14
+Year 6: deposit 115.93, balance 9313.91
+Year 7: deposit 119.41, balance 11368.67
+Year 8: deposit 122.99, balance 13594.57
+Year 9: deposit 126.68, balance 16003.50
+Year 10: deposit 130.48, balance 18608.12

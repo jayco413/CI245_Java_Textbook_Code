@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+
+<GridPane hgap="10.0" vgap="10.0" xmlns="http://javafx.com/javafx"
+          xmlns:fx="http://javafx.com/fxml"
+          fx:controller="MortgageController">
+    <padding>
+        <Insets bottom="16.0" left="16.0" right="16.0" top="16.0" />
+    </padding>
+    <columnConstraints>
+        <ColumnConstraints halignment="RIGHT" />
+        <ColumnConstraints hgrow="ALWAYS" prefWidth="220.0" />
+        <ColumnConstraints minWidth="55.0" />
+    </columnConstraints>
+    <children>
+        <TextField fx:id="txtPrincipal"
+                   promptText="for example, 250,000"
+                   GridPane.rowIndex="0" GridPane.columnIndex="1"
+                   GridPane.columnSpan="2" />
+        <Label text="Principal ($):" labelFor="$txtPrincipal"
+               GridPane.rowIndex="0" GridPane.columnIndex="0" />
+
+        <!-- rows 1 and 2: the term, and the rate slider and readout -->
+
+        <Button fx:id="btnCalculate" text="Calculate"
+                defaultButton="true" maxWidth="Infinity"
+                onAction="#calculate"
+                GridPane.rowIndex="3" GridPane.columnIndex="0"
+                GridPane.columnSpan="3" />
+
+        <!-- rows 4 and 5: the payment, and the message line -->
+    </children>
+</GridPane>

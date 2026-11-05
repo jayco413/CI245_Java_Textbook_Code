@@ -1,0 +1,4 @@
+Highest: 99
+Lowest: 57
+Average: 81.50
+Above average: 7

@@ -1,0 +1,5 @@
+Perfect numbers below 10000:
+6
+28
+496
+8128
