@@ -1,0 +1,7 @@
+Crossing at x = -8.4232
+Crossing at x = -7.0682
+Crossing at x = -2.8523
+Crossing at x = 0.0000
+Crossing at x = 2.8523
+Crossing at x = 7.0682
+Crossing at x = 8.4232
